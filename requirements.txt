@@ -1,0 +1,8 @@
+torch
+diffusers
+transformers
+accelerate
+opencv-python
+numpy
+moviepy
+streamlit
