@@ -6,8 +6,8 @@ An AI-powered application that converts a user's dream description into a cinema
 
 - AI-based dream visualization
 - Text-to-image generation using Stable Diffusion
-- Keyframe generation
-- Smooth frame animation
+- AI keyframe generation
+- Smooth animation
 - MP4 video generation
 - Streamlit web interface
 - Video preview and download
@@ -15,8 +15,8 @@ An AI-powered application that converts a user's dream description into a cinema
 ## Technologies Used
 
 - Python
-- Stable Diffusion
 - PyTorch
+- Stable Diffusion
 - Diffusers
 - OpenCV
 - NumPy
@@ -31,6 +31,6 @@ An AI-powered application that converts a user's dream description into a cinema
 4. Frames are combined into an MP4 video.
 5. The generated video is displayed in the Streamlit interface.
 
-## Project
+## Project Status
 
-Developed as an AI-based visualization project.
+Working prototype completed successfully.
