@@ -34,3 +34,8 @@ An AI-powered application that converts a user's dream description into a cinema
 ## Project Status
 
 Working prototype completed successfully.
+
+## 🔗 Project Link
+
+[View AI Dream Visualization Project](https://github.com/sivakumarton2026/AI-Dream-Visualization)
+
