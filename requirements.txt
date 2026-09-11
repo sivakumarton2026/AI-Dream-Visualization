@@ -1,6 +1,8 @@
 torch
-diffusers
-transformers
+diffusers==0.29.0
+
+transformers==4.44.2
+
 accelerate
 opencv-python
 numpy
